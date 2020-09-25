@@ -1,4 +1,5 @@
-﻿using Microsoft.Xna.Framework;
+﻿//2020 Levi D. Smith - levidsmith.com
+using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using System;
 using System.Collections.Generic;
